@@ -25,7 +25,7 @@ class HalDua extends StatelessWidget {
             child: IconButton(
               icon: Icon(
                 Icons.arrow_back_rounded,
-                color: Colors.black,
+                color: Colors.white,
                 size: 30,
               ),
               onPressed: () {
