@@ -18,7 +18,7 @@ class HalDua extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Color.fromARGB(255, 233, 158, 38),
+          backgroundColor: Color.fromARGB(255, 135, 161, 244),
           shadowColor: Colors.grey,
           leading: Padding(
             padding: const EdgeInsets.only(left: 15.0),
